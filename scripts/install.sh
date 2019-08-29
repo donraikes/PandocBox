@@ -23,3 +23,6 @@ tidy \
 	vim-scripts \
 	curl
 
+
+## now install the latest version of pandoc:
+apt install /vagrant/pandoc*.deb
